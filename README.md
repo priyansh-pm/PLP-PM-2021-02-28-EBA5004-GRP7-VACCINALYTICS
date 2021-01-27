@@ -1,4 +1,4 @@
-# VACCINEANALYTICS
+# VACCINALYTICS
 This project is done as part of the [Graduate Certificate in Practical Language Processing (PLP)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems) series offered by NUS-ISS.
 
 
