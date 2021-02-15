@@ -1,0 +1,6 @@
+django~=3.1.6
+nltk~=3.5
+scikit-learn~=0.23.2
+numpy~=1.19.2
+tensorflow~=2.4.1
+djangorestframework~=3.12.2
