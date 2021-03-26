@@ -50,8 +50,6 @@ y = pos, neg, neu
 labelss = ['Positive Sentiments', 'Negative Sentiments', 'Neutral Sentiments']
 myexplode = [0.5, 0, 0]
 
-app = Flask(__name__)
-
 @app.route('/visualize')
 def visualize():
     plt.pie(y, labels=labelss, explode= myexplode, shadow=True)
