@@ -23,7 +23,6 @@ api = tweepy.API(auth, wait_on_rate_limit=True)
 
 def get_tweets():
     tmp = []
-    
     df = pd.read_csv(str(BASE_DIR)+'/fact_checker/tweets.csv', header=None)
 
     for index, row in df.iterrows():
@@ -31,5 +30,5 @@ def get_tweets():
         tweets_for_csv = [tweet.text for tweet in tweets]
         for t in tweets_for_csv:
             if 'vaccine' or 'vaccinated' in word_tokenize(t):
-                tmp.append({'tweet': t, 'username': row[0], 'tweet_url': row[1], 'screenshot': str(BASE_DIR)+row[2]})
+                tmp.append({'tweet': t, 'username': row[0], 'tweet_url': row[1], 'screenshot': row[2]})
     return tmp
