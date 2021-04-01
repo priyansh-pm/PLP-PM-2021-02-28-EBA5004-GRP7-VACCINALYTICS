@@ -177,9 +177,9 @@ A COVID 19 vaccine can cause mild side effects after the first or second dose, i
 
 If you have a history of severe allergic reactions not related to vaccines or injectable medications, you may still get a COVID 19 vaccine , You should be monitored for 30 minutes after getting the vaccine, source - https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/allergic-reaction.html.
 
-If you’ve had an immediate allergic reaction to other vaccines or injectable medications, ask your doctor if you should get a COVID 19 vaccine , If you’ve ever had an immediate allergic reaction to any ingredient in a COVID 19 vaccine, the Centers for Disease Control and Prevention (CDC) recommends not getting that specific vaccine , Also, people who are allergic to polysorbate should not get an mRNA COVID 19 vaccine.
+If you had an immediate allergic reaction to other vaccines or injectable medications, ask your doctor if you should get a COVID 19 vaccine , If you ever had an immediate allergic reaction to any ingredient in a COVID 19 vaccine, the Centers for Disease Control and Prevention (CDC) recommends not getting that specific vaccine , Also, people who are allergic to polysorbate should not get an mRNA COVID 19 vaccine.
 
-If you have an immediate allergic reaction after getting the first dose of a COVID 19 vaccine, don’t get the second dose.
+If you have an immediate allergic reaction after getting the first dose of a COVID 19 vaccine, dont get the second dose.
 
 There is no COVID 19 vaccine yet for children under age 16 , Several companies have begun enrolling children as young as age 12 in COVID 19 vaccine clinical trials , Studies including younger children will begin soon.
 
@@ -231,7 +231,6 @@ That’s a lot of people, but if the virus were rare, that still wouldn’t be e
 
  Reported vaccine efficacy rates of 94 or  ninety five percent are for symptomatic disease only, Because the clinical trials for Pfizer and Moderna did not require regular testing for COVID19, they were not a good indication of how well the vaccine protects against asymptomatic disease.
 
-The vaccine was developed too fast I don’t think they know enough about it.
 These vaccines could be made fast and still be safe for three simple reasons.
 There was a lot of research done on the kind of virus that causes COVID19 before this virus showed up. So scientists had a big head start about the kind of vaccine that would work best to fight this virus.
 A lot of government money was spent to get many companies to work on this vaccine and to put all of their scientists to work on it around the clock. That helped speed everything up.
@@ -298,9 +297,8 @@ It’s true that vaccines are not effective 100 percent of the time, but that do
 
 In the great majority of cases, the side effects from vaccines are quite minimal (such as injection-site soreness or a slight fever). Yes, several vaccines do have potentially serious side effects, but they are extremely rare and deaths caused by vaccines are almost unheard of. For example, according to the Vaccine Adverse Event Reporting System, between 1990 and 1992, there was only one reported incident of a death that may have been associated with a vaccine. In many ways, vaccines are victims of their own success. Before vaccines, millions of children contracted measles, polio, Haemophilus influenza type B, pertussis and other serious diseases each year. Thousands died or were seriously damaged. Even with advanced medical care in 2009, serious complications and death occur from vaccine-preventable diseases. Vaccination is the best form of protection.
 
-  It’s not safe to get more than one vaccine at a time.
 
-When parents first read the child-and-adolescent vaccine schedule, it’s not unusual for them to be concerned about how many vaccines are given at one time. However, research has shown it is safe for healthy individuals to receive more than one vaccine at a time. Not only is it safe, but it also protects the person as quickly as possible. It is convenient because parents do not have to make as many visits to their health care providers as they would if they were getting vaccinations one at a time.
+When parents first read the child-and-adolescent vaccine schedule, it’s not unusual for them to be concerned about how many vaccines are given at one time. Research has shown it is safe for healthy individuals to receive more than one vaccine at a time. Not only is it safe, but it also protects the person as quickly as possible. It is convenient because parents do not have to make as many visits to their health care providers as they would if they were getting vaccinations one at a time.
 
   Alternative vaccine schedules are a good idea if you are worried about giving too many vaccines at once.
 
@@ -632,7 +630,7 @@ No vaccine can be developed against COVID-19 infection.	God has sent COVID-19 as
 Open in a separate window
 DB RCT Double blind Randomised controlled trial.
 
-The myths listed in the table have been discussed so as to disseminate knowledge and information with regard to COVID-19 (Tandon, 2020) as these are being circulated on various social media platforms and can be regarded as a potential source of anxiety related to COVID-19. Those myths related to spreading   or transmission of COVID-19 have been bothering the public to think twice before using newspapers   or vegetables etc. and many are avoiding non-vegetarian foods with the fear of being infected. Further, many have hoarded or stockpiled antibiotics, essential oils, Vitamin C tablets, masks, sanitizers, etc. to protect themselves from running out of stock of these commodities. These myths can also lead to a false sense of security of being immune to the infection and resultant exposure to high-risk situations.
+The myths listed in the table have been discussed so as to disseminate knowledge and information with regard to COVID-19 (Tandon, 2020) as these are being circulated on various social media platforms and can be regarded as a potential source of anxiety related to COVID-19.
 
 Harboring such myths can be detrimental to society as all these create a hue and cry and chaos among the people. People need to understand that spreading such information can be punishable. In this regard, the Cyber Police   or Cyber cell has been active (“WhatsApp Admin Warned For Fake Coronavirus Post, 2020) and have traced all those persons circulating wrong messages and tried to demystify many myths through telecommunication awareness programs (DelhiMarch 20., I.G.N., March 20, 2020). There have been instances of persons being heavily fined or being arrested when found to be spreading false claims of treating   or curing COVID-19 (Bhandari, 2020a).
 
