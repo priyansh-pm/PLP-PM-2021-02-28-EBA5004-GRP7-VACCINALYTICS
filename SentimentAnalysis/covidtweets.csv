@@ -1,64 +1,37 @@
-,Tweets,Subjectivity,Polarity,Analysis
-0,"THE SEXED UP THERAPY: 
-What happened to CovidVaccine -hype &amp; Vaccine- patriotism &amp; Vaccine intellectualism ? One ""… ",0.0,0.0,Neutral
-1,COVID-19 vaccine: Pfizer withdraws Emergency Use Authorisation application in India  covidvaccine,0.0,0.0,Neutral
-2, Vaccinate2educate absolutely! Once group 4 done surely teachers and police should be next?! vaccine Covid19UK CovidVaccine,0.5962962962962962,0.25,Positive
-3,"Good news from . 
-The vaccine-induced antibodies were able to efficiently neutralize SARS-CoV-2 viru… ",0.6125,0.6,Positive
-4,Pfizer to resubmit its approval request with additional information for emergency use of its CovidVaccine in… ,0.0,0.0,Neutral
-5,The COVIDVaccine is currently being offered to people most at risk from coronavirus — including people over 80 and… ,0.45,0.25,Positive
-6,"I think we're having a ""Clayton's"" CovidVaccine rollout in Australia.  You know, the rollout you have when you're… ",0.0,0.0,Neutral
-7, Zimbabwe should learn from other Countries When choosing to CovidVaccine .Till date Vaccine of India are v… ,0.375,-0.125,Negative
-8,"Only 58 frontline workers turned up for the vaccine in Mumbai on Day 1 against the set target of 8,000 (… ",1.0,0.0,Neutral
-9,"💉
-💉💉
-💉💉💉
-💉💉💉💉
-
-CovidVaccine  acceptance has been changing in the past few months.  Check out the KAP Covid page… ",0.175,-0.225,Negative
-10,Londoners who are aged over 70 can now book their COVIDVaccine appointment without needing an invitation letter. P… ,0.4,-0.1,Negative
-11,"Excellent CovidVaccine information booklet. Simple plain language, easy to understand yet doesn't skimp on details… ",0.636904761904762,0.3047619047619048,Positive
-12,"Agra 
- 
-Received first dose of CovidVaccine today as part of vaccinations drive of FrontLine workers with office… ",0.3333333333333333,0.25,Positive
-13,Peter Brookes on BorisJohnson Macron CovidVaccine Gillray – political cartoon gallery in London… ,0.1,0.0,Neutral
-14,"“Cancer is a life sentence. But Covid is a death sentence,” said a 62-year-old cancer patient.
-An insightful… ",0.0,0.0,Neutral
-15,"""A cautionary note on recall vaccination in ex-COVID-19 subjects""
-
-Interesting pre-print COVID19 study from Milan… ",0.5,0.5,Positive
-16,"Covid19 Vaccination Drive for Frontline Workers of Handwara Police was carried out at DPL Handwara.
-SPHandwara… ",0.0,0.0,Neutral
-17,"Whether it's coming from elected MPs, celebrity chefs or anonymous accounts: misinformation about the covidvaccine… ",0.0,0.0,Neutral
-18,"Johnson&amp; Johnson Seeks Emergency Authorisation Of Single Dose CovidVaccine
-",0.21428571428571427,-0.07142857142857142,Negative
-19,"PFizer withdraws its India application for vaccine use.
-The US company, which was the first drugmaker to apply for… ",0.3333333333333333,0.25,Positive
-20,"$NVAX we haven't seen standard offering after stellar results, so I assume the new $500M ATM has been exercised in… ",0.23484848484848486,0.12878787878787878,Positive
-21,"A tweet to say what a fantastic job the vaccination centres are doing.
-My mum had her CovidVaccine yesterday. Righ… ",0.9,0.4,Positive
-22,Looking forward to writing my Blog about the Covid Vaccine and raising awareness about it to. Its very important to… ,1.0,0.52,Positive
-23,"Choose one of the five charities
-COVIDVaccination  vaccine COVID CovidVaccine ScienceTwitter",0.0,0.0,Neutral
+Serial Number,Tweets,Subjectivity,Polarity,Analysis
+0,"What happened to CovidVaccine Vaccine patriotism Vaccine intellectualism"?,0.0,0.0,Neutral
+1,COVID-19 vaccine: Pfizer withdraws Emergency Use Authorisation application in India,0.0,0.0,Neutral
+2, Vaccinate2educate absolutely! Once group 4 done surely teachers and police should be next?!,0.5962962962962962,0.25,Positive
+3,"Good news from The vaccine-induced antibodies were able to efficiently neutralize SARS-CoV-2,0.6125,0.6,Positive
+4,Pfizer to resubmit its approval request with additional information for emergency use of its CovidVaccine,0.0,0.0,Neutral
+5,The COVIDVaccine is currently being offered to people most at risk from coronavirus — including people over 80,0.45,0.25,Positive
+6,"I think we're having a ""Clayton's"" CovidVaccine rollout in Australia",0.0,0.0,Neutral
+7, Zimbabwe should learn from other Countries When choosing to CovidVaccine,0.375,-0.125,Negative
+8,"Only 58 frontline workers turned up for the vaccine in Mumbai on Day 1 against the set target of 8,000",1.0,0.0,Neutral
+9,"CovidVaccine  acceptance has been changing in the past few months.  Check out the KAP Covid page",0.175,-0.225,Negative
+10,Londoners who are aged over 70 can now book their COVIDVaccine appointment without needing an invitation letter,0.4,-0.1,Negative
+11,"Excellent CovidVaccine information booklet. Simple plain language, easy to understand yet doesn't skimp on details",0.636904761904762,0.3047619047619048,Positive
+12,"Agra Received first dose of CovidVaccine today as part of vaccinations drive of FrontLine workers with office",0.3333333333333333,0.25,Positive
+13,Peter Brookes on BorisJohnson Macron CovidVaccine Gillray – political cartoon gallery in London,0.1,0.0,Neutral
+14,"“Cancer is a life sentence. But Covid is a death sentence,” said a 62-year-old cancer patient. An insightful",0.0,0.0,Neutral
+15,"""A cautionary note on recall vaccination in ex-COVID-19 subjects"" Interesting pre-print COVID19 study from Milan",0.5,0.5,Positive
+16,"Covid19 Vaccination Drive for Frontline Workers of Handwara Police was carried out at DPL Handwara. SPHandwara",0.0,0.0,Neutral
+17,"Whether it's coming from elected MPs, celebrity chefs or anonymous accounts: misinformation about the covidvaccine",0.0,0.0,Neutral
+18,"Johnson&amp; Johnson Seeks Emergency Authorisation Of Single Dose CovidVaccine",0.21428571428571427,-0.07142857142857142,Negative
+19,"PFizer withdraws its India application for vaccine use. The US company, which was the first drugmaker to apply for",0.3333333333333333,0.25,Positive
+20,"$NVAX we haven't seen standard offering after stellar results, so I assume the new $500M ATM has been exercised in",0.23484848484848486,0.12878787878787878,Positive
+21,"A tweet to say what a fantastic job the vaccination centres are doing. My mum had her CovidVaccine yesterday. Righ",0.9,0.4,Positive
+22,Looking forward to writing my Blog about the Covid Vaccine and raising awareness about it to. Its very important,1.0,0.52,Positive
+23,"Choose one of the five charities COVIDVaccination vaccine COVID CovidVaccine ScienceTwitter",0.0,0.0,Neutral
 24, Boris &amp; the ConservativeParty have taken flack from Labour daily but nearly everyone has the same th… ,0.17500000000000002,0.03333333333333333,Positive
 25, This is why I won't get a j&amp;j vaccine. Don't trust a company that kills women like lab rats.… ,0.0,0.0,Neutral
 26,Here is some important information about the Covid-19 vaccine in British Sign Language courtesy of :… ,0.5,0.2,Positive
 27,"In the news today: February 5, 2021
 DonaldTrump ImpeachmentTrial JoeBiden POTUS JohnsonAndJohnson… ",0.0,0.0,Neutral
 28,"BCM medical staff ready and willing to take CovidVaccine, new study find ",0.42613636363636365,0.1465909090909091,Positive
-29,"EU calls for vote on whether Polish reforms violate EU law
-
-
-
-job  Jobsfair Jobs… ",0.0,0.0,Neutral
-30,"Anyone else had their covidvaccine &amp; now waiting longer than 43 days for their 2nd jab? 🙄
-
-How are you doing?… ",0.0,0.0,Neutral
-31,"Are we finally past the peak?
-
-Covid-19 vaccination day 56.
-
- covidvaccine covidvac pfizer astrazeneca moderna… ",0.25,-0.25,Negative
+29,"EU calls for vote on whether Polish reforms violate EU law job  Jobsfair Jobs… ",0.0,0.0,Neutral
+30,"Anyone else had their covidvaccine &amp; now waiting longer than 43 days for their 2nd jab? How are you doing?… ",0.0,0.0,Neutral
+31,"Are we finally past the peak? Covid-19 vaccination day 56. covidvaccine covidvac pfizer astrazeneca moderna… ",0.25,-0.25,Negative
 32,"If the queue for CovidVaccine is so long, why can’t the production of  FDA approved vaccines (with Global accep… ",0.2,-0.025,Negative
 33,The CovidVaccine will always be available free of charge. The NHS will never ask you to share bank details to conf… ,0.6000000000000001,0.4,Positive
 34,"The vaccines approved for use in the UK have met strict standards of safety, quality and effectiveness set out by t… ",0.0,0.0,Neutral
