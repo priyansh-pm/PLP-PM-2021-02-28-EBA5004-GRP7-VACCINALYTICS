@@ -1,0 +1,97 @@
+{% extends "bootstrap/base.html" %}
+
+{% block title %}
+Vaccinalytics
+{% endblock %}
+
+{% block styles %}
+{{super()}}
+<link rel="stylesheet" href="{{url_for('.static', filename='starter-template.css')}}">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+h2, h3{
+  font-family: "Playfair Display";
+  letter-spacing: 2px;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Vaccinalytics</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="{{ url_for('chat') }}">Chat</a></li>
+            <li><a href="{{ url_for('fact') }}">Myths</a></li>
+            <li><a href="{{ url_for('sentiment') }}">Sentiment analysis</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <div class="starter-template">
+        <h1>Vaccinalytics</h1>
+        <div class="w3-col m6 w3-padding-large">
+          <h1 class="w3-center">Problem our Project Addresses </h1><br>
+          <p class="w3-large">
+            Given the enormity of the disease and the rushed vaccine production and trials to combat the virus,
+            there has been an enormous amount of support for the vaccine, as well as negative comments and reviews.
+            Some people and organizations have taken advantage of this fact to spread rumors or material that are not correct,
+            are partially correct without showing the entire picture or are just factually wrong. Separating these comments from
+            the right ones is difficult, almost impossible as there are very few sources of information that can be trusted.
+            use </p>
+          <h2><span class="w3-tag w3-light-grey">Vaccinalytics</span>is the key</h2>
+          <p class="w3-large w3-text-grey w3-hide-medium">
+            We, as a team of three members, aim to provide a solution that enables the users to get more information about the vaccine.
+          </p>
+          <p class="w3-large w3-text-grey w3-hide-medium">
+            There are 3 components to out dashboard :
+          </p>
+          <ul>
+            <li>
+              <b>Chatbot</b>: A chatbot that can give you information about the vaccines . You can ask about all the apprehensions you have about the vaccine and it provide you with the required information and document. You can interact with the chatbot through text or speech.
+            </li>
+            <li>
+              <b>Fact checking</b>: There is a lot of widespread negativity about the vaccine and it is sometimes hard to identify whether the statements made by people on social media are a fact or a myth.
+                Thus , we introduce the fact checking module that check the statements about coronavirus.
+            </li>
+            <li>
+              <b>Sentiment analysis</b>: This module takes statements made by people on twitter, analyzes and states the sentiment of the statement . The User will see the sentiment of the tweet and be able to see a visualization of the difference in amounts between the positive, the negative and the neutral tweets.
+            </li>
+          </ul>
+          <p class="w3-large w3-text-grey w3-hide-medium">
+            Team members : Geet Jethwani , Nachiketh Doraiswamy , Priyansh Mishra
+          </p>
+        </div>
+
+        <div class="w3-half w3-padding-large w3-hide-small">
+          <img src="https://www.fda.gov/files/styles/main_image_medium/public/Vaccine101-web.png?itok=UJmgN8uL" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
+        </div>
+        <div class="w3-half w3-padding-large w3-hide-small">
+          <img src="https://www.paho.org/sites/default/files/styles/flexslider_full/public/2021-01/covid-19-vaccination-1500-991-2.jpg?h=33d2e14c&itok=nHmyhd3y" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
+        </div>
+        <div class="w3-half w3-padding-large w3-hide-small">
+          <img src="https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2020/03/Covid-19-Vaccine-development-e1599531596297.jpg" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
+        </div>
+      </div>
+    </div>
+
+    <!-- /.container -->
+{% endblock %}
